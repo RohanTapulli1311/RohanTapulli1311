@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React and DL**
 
-- 💬 Ask me about **MERN, DL**
+- 💬 Ask me about **MERN, Deep Learning**
 
 - 📫 How to reach me **rohan.tapulli@gmail.com**
 
